@@ -12,7 +12,8 @@ export const Mad = () => {
     He shared he enjoys history. 
     Hes was just such a gentle man!
     I need to fucking learn how to be more cooperative. He shared that he likes Thanksgiving and I immediatly shared that I do not like Thanksgiving becuse that is not a holiday my family and I go hard on. We go hard for thanksgiving. 
-    
+    He was just a pleasnt person to be around. He was polite, full of wisdom, and was just interesting. 
+    He told he was going to call me, 
 </p>
 
         </h1>
