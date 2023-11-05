@@ -9,6 +9,10 @@ export const Mad = () => {
     Today is actually the 11/16/23.
     I was banking on seeing Dr. Daniel Oana. He's a Romanian Ped Doctor. 
     Showed me his dog Winston (named after Winston Churchill) His grandson has a dog - dont remember that dog name
+    He shared he enjoys history. 
+    Hes was just such a gentle man!
+    I need to fucking learn how to be more cooperative. He shared that he likes Thanksgiving and I immediatly shared that I do not like Thanksgiving becuse that is not a holiday my family and I go hard on. We go hard for thanksgiving. 
+    
 </p>
 
         </h1>
