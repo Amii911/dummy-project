@@ -8,7 +8,7 @@ export const Mad = () => {
     so this is going to be an offical diary entry!
     Today is actually the 11/16/23.
     I was banking on seeing Dr. Daniel Oana. He's a Romanian Ped Doctor. 
-    
+    Showed me his dog Winston (named after Winston Churchill) His grandson has a dog - dont remember that dog name
 </p>
 
         </h1>
