@@ -1,9 +1,7 @@
 import React from 'react'
 
-function Mad() {
+export const Mad = () => {
   return (
     <div>Mad</div>
   )
 }
-
-export default Mad
